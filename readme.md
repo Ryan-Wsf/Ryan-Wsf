@@ -104,9 +104,6 @@
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
 
-
-<img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Commit Snake History SVG" style="max-width: 100%;">
-
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
