@@ -1,20 +1,20 @@
 <!--
 <h2 align="center">
-  Welcome i am MaxCordiau!
+  Welcome i am Ryan-Wsf!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 <!--
 <p align="center">
-  <a href="https://github.com/MaxCordiau"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Ryan-Wsf"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
 <!--
-<a href="https://komarev.com/ghpvc/?username=MaxCordiau">
-  <img align="right" src="https://komarev.com/ghpvc/?username=MaxCordiau&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=Ryan-Wsf">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Ryan-Wsf&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 -->
 
@@ -23,7 +23,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://MaxCordiau.com">Max Cordiau</a></b>
+                <b><a target="_blank" href="https://Ryan-Wsf.com">Max Cordiau</a></b>
         </samp>
 </h3>
 
@@ -37,27 +37,27 @@
 </p>
 
 <p align="center">
- <a href="https://MaxCordiau.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MaxCordiau" />
+ <a href="https://Ryan-Wsf.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ryan-Wsf" />
  </a>
  <a href="https://www.linkedin.com/in/marceau-p-p-471328274/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MaxCordiau"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ryan-Wsf"/>
  </a>
   <a href="https://discord.gg/ZeddETnuwb" target="_blank" align-items="center">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" alt="discord logo"/>
   </a>
 
- <!-- <a href="https://dev.to/MaxCordiau" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MaxCordiau" />
+ <!-- <a href="https://dev.to/Ryan-Wsf" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Ryan-Wsf" />
  </a> -->
- <!-- <a href="https://twitter.com/MaxCordiau" target="_blank">
+ <!-- <a href="https://twitter.com/Ryan-Wsf" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
- <!-- <a href="https://instagram.com/MaxCordiau" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="MaxCordiau" />
+ <!-- <a href="https://instagram.com/Ryan-Wsf" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ryan-Wsf" />
  </a>  -->
- <!-- <a href="https://facebook.com/MaxCordiau" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="MaxCordiau"  />
+ <!-- <a href="https://facebook.com/Ryan-Wsf" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Ryan-Wsf"  />
   </a>  -->
 </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
@@ -65,32 +65,32 @@
  <!-- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/MaxCordiau">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxCordiau&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaxCordiau&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxCordiau&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxCordiau&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxCordiau&theme=2077" height="180em" />
+<a href="https://github.com/Ryan-Wsf">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryan-Wsf&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ryan-Wsf&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryan-Wsf&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryan-Wsf&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-Wsf&theme=2077" height="180em" />
 </div>
  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h1 align="center">Statistics</h1>
 <br />
 
 <p align="center">
-  <a href="https://github.com/MaxCordiau">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxCordiau&theme=radical&border=7F3FBF&background=0D1117" alt="Max Cordiau GitHub streak"/>
+  <a href="https://github.com/Ryan-Wsf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryan-Wsf&theme=radical&border=7F3FBF&background=0D1117" alt="Max Cordiau GitHub streak"/>
   </a>
 </p>
 <br />
 <a> 
-  <a href="https://github.com/MaxCordiau"><img alt="Max Cordiau Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MaxCordiau&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MaxCordiau"><img alt="Max Cordiau Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MaxCordiau&langs_count=20&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Ryan-Wsf"><img alt="Max Cordiau Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ryan-Wsf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Ryan-Wsf"><img alt="Max Cordiau Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Wsf&langs_count=20&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </a>
   <br/>
 <br />
 <p align="center">
-  <a href="https://github.com/MaxCordiau">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxCordiau&theme=radical" alt="Max Cordiau GitHub Contribution"/>
+  <a href="https://github.com/Ryan-Wsf">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryan-Wsf&theme=radical" alt="Max Cordiau GitHub Contribution"/>
   </a>
 </p>
 
@@ -108,20 +108,20 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: marceau.pp@proton.me<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/MaxCordiau/MaxCordiau/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/Ryan-Wsf/Ryan-Wsf/issues)
 
 </p>
 
 <!--
 <h2 align="center">
-  Welcome i am MaxCordiau!
+  Welcome i am Ryan-Wsf!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 <!--
 <p align="center">
-  <a href="https://github.com/MaxCordiau"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Ryan-Wsf"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -133,17 +133,17 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/018e5728-2c71-4438-bbfb-50980de6bf53.svg)](https://wakatime.com/@018e5728-2c71-4438-bbfb-50980de6bf53) -->
 
 
- <!-- <a href="https://dev.to/MaxCordiau" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MaxCordiau" />
+ <!-- <a href="https://dev.to/Ryan-Wsf" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Ryan-Wsf" />
  </a> -->
- <!-- <a href="https://twitter.com/MaxCordiau" target="_blank">
+ <!-- <a href="https://twitter.com/Ryan-Wsf" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
- <!-- <a href="https://instagram.com/MaxCordiau" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="MaxCordiau" />
+ <!-- <a href="https://instagram.com/Ryan-Wsf" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Ryan-Wsf" />
  </a>  -->
- <!-- <a href="https://facebook.com/MaxCordiau" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="MaxCordiau"  />
+ <!-- <a href="https://facebook.com/Ryan-Wsf" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Ryan-Wsf"  />
   </a>  -->
 <!-- 
 ## Use To Code
@@ -175,17 +175,17 @@
 <br/>
 
 ## Top Open Source -
-[![Max Cordiau Readme](https://github-readme-stats.vercel.app/api/pin/?username=MaxCordiau&repo=MaxCordiau&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MaxCordiau/MaxCordiau)
+[![Max Cordiau Readme](https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Wsf&repo=Ryan-Wsf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ryan-Wsf/Ryan-Wsf)
 
 <p align="left">
-  <a href="https://github.com/MaxCordiau?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Ryan-Wsf?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
 
-![MaxCordiau Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaxCordiau&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Ryan-Wsf Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryan-Wsf&custom_title=Max%20Cordiau%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
