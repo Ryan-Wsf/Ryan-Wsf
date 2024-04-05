@@ -188,15 +188,6 @@
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
 
-<h2 align="center">Visitor counter</h2>
-
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/{LaureZammit}/count.svg)
-
-</div>
-
-
 
 <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Commit Snake History SVG" style="max-width: 100%;">
 
