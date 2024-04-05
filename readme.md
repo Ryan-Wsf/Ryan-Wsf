@@ -40,12 +40,9 @@
  <a href="https://Ryan-Wsf.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ryan-Wsf" />
  </a>
- <a href="https://www.linkedin.com/in/marceau-p-p-471328274/" target="_blank">
+ <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ryan-Wsf"/>
  </a>
-  <a href="https://discord.gg/ZeddETnuwb" target="_blank" align-items="center">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height: 35px;" alt="discord logo"/>
-  </a>
 
  <!-- <a href="https://dev.to/Ryan-Wsf" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Ryan-Wsf" />
@@ -107,7 +104,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: marceau.pp@proton.me<br/><br/>
+ 📧 &emsp; Reach me anytime: wassouf.ryan@outlook.fr<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Ryan-Wsf/Ryan-Wsf/issues)
 
 </p>
@@ -175,7 +172,7 @@
 <br/>
 
 ## Top Open Source -
-[![Max Cordiau Readme](https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Wsf&repo=Ryan-Wsf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ryan-Wsf/Ryan-Wsf)
+[![Ryan Wassouf Readme](https://github-readme-stats.vercel.app/api/pin/?username=Ryan-Wsf&repo=Ryan-Wsf&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ryan-Wsf/Ryan-Wsf)
 
 <p align="left">
   <a href="https://github.com/Ryan-Wsf?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
