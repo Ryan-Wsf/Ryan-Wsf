@@ -103,9 +103,3 @@
 <br/>
 <img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
 <br/>
-
-<br/>
-<img alt="gifBar" src="/assets/horizontal-divider-gradient.gif"> 
-<br/>
-
-
